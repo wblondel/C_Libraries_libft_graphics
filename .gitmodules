@@ -1,3 +1,6 @@
 [submodule "libs/libft"]
 	path = libs/libft
 	url = git@github.com:wblondel/C_Libraries_libft.git
+[submodule "libs/minilibx"]
+	path = libs/minilibx
+	url = git@github.com:wblondel/minilibx_macos.git
